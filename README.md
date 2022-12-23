@@ -9,9 +9,9 @@
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ashpreet-singh-wadhwa-8a2029248/" target="_blank">Ashpreet Singh Wadhwa <br> </a> </h1> <br>
 
-<img align="right" alt="Coding" width="360" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&color=89E1FF&multiline=true&width=700&lines=A+Machine+Learning+Project+Developer+from+India)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="360" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
