@@ -9,7 +9,7 @@
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/ashpreet-singh-wadhwa-8a2029248/" target="_blank">Ashpreet Singh Wadhwa <br> </a> </h1> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&color=89E1FF&multiline=true&width=700&lines=A+passionate+Full+Stack+Developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&color=89E1FF&multiline=true&width=700&lines=A+Machine+Learning+Developer+from+India)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="360" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
